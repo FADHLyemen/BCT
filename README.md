@@ -13,4 +13,4 @@ biclusters varies strongly among the considered methods, a postprocessing filtra
 has been applied to the output of the algorithms to provide a common basis for the comparison.
 Finally, using one of comparison methodology which was implemented in BCT, the user could
 test the performance of various algorithms.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/FADHLyemen/BCT/blob/master/image.png)
